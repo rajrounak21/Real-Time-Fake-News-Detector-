@@ -10,3 +10,26 @@ This application uses Generative AI (Gemini API), DuckDuckGo Search, and Newspap
 ✅ Fast & Reliable Detection for trending news
 
 📌 Tech Stack: Streamlit, Phi-3 AI, Google Gemini, DuckDuckGo, Newspaper4k
+Phidata provides AI-powered tools and integrations to enhance data-driven applications. It simplifies building intelligent applications by offering APIs for news extraction, web search, and AI-based analysis.
+
+About the Tools Used in This App
+Google Gemini (Generative AI Model) 🧠
+
+Provides AI-powered analysis to verify news credibility.
+Understands news context, cross-references facts, and generates accurate insights.
+Newspaper4k (Phidata Tool) 📰
+
+Extracts text and metadata from news articles.
+Converts URLs into readable text for AI analysis.
+DuckDuckGo (Phidata Tool) 🔍
+
+Conducts real-time web searches to verify news facts.
+Cross-checks news claims against multiple sources.
+These tools work together to detect misinformation in real time by fetching news, analyzing content, and providing a final TRUE or FAKE verdict. 🚀
+
+
+
+
+
+
+
